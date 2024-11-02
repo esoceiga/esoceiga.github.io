@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esoceiga.github.io/Llr/sitemap_index.txt
+Sitemap: https://esoceiga.github.io/Qto/sitemap_index.txt
+Sitemap: https://esoceiga.github.io/ZJX/sitemap_index.txt
+Sitemap: https://esoceiga.github.io/itU/sitemap_index.txt
